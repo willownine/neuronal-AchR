@@ -36,12 +36,12 @@ The study investigates the structural features and binding affinities of neurona
 | Tool               | Purpose                                     |
 |--------------------|---------------------------------------------|
 | UniProt            | Sequence retrieval                         |
-| SWISS-MODEL        | Homology modeling                          |
+| SWISS-MODEL , PDB and MEMPROT       | Homology modeling                          |
 | AutoDock4          | Protein-ligand docking                     |
 | HADDOCK 2.4        | Protein-protein docking (3FTX with nAChRs) |
 | GROMACS 2025.1     | Molecular dynamics simulations             |
 | KEGG               | Pathway analysis                           |
-| LigPlot+, Chimera  | Interaction visualization                  |
+| LigPlot+, Chimera ,BDS  | Interaction visualization                  |
 | Clustal Omega/W    | MSA and Phylogenetics                      |
 
 ## 🧪 Methods Summary
