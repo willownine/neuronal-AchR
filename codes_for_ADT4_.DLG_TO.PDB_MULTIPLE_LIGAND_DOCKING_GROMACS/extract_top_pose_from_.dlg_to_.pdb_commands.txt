@@ -1,0 +1,5 @@
+#command to give execution permission for extract_top_poses.sh
+chmod +x ~/extract_top_poses.sh
+
+#command to run the extract_top_poses.sh
+~/extract_top_poses.sh

@@ -1,0 +1,8 @@
+#command for generating map files from receptor.pdbqt
+autogrid4 -p grid.gpf -l grid.glg
+
+#command for giving the batch_docking shell script execution permission
+chmod +x batch_docking.sh
+
+#command for running the batch_docking shell script
+./batch_docking.sh 
