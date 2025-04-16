@@ -43,6 +43,7 @@ The study investigates the structural features and binding affinities of neurona
 | KEGG               | Pathway analysis                           |
 | LigPlot+, Chimera ,BDS  | Interaction visualization                  |
 | Clustal Omega/W    | MSA and Phylogenetics                      |
+| Pore Walker    | protein dimension studies                       |
 
 ## 🧪 Methods Summary
 
