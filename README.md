@@ -37,6 +37,7 @@ The study investigates the structural features and binding affinities of neurona
 |--------------------|---------------------------------------------|
 | UniProt            | Sequence retrieval                         |
 | SWISS-MODEL , PDB and MEMPROT       | Homology modeling                          |
+| ProSA-web and QMEAN       | Structure validation                     |
 | AutoDock4          | Protein-ligand docking                     |
 | HADDOCK 2.4        | Protein-protein docking (3FTX with nAChRs) |
 | GROMACS 2025.1     | Molecular dynamics simulations             |
@@ -50,13 +51,14 @@ The study investigates the structural features and binding affinities of neurona
 1. **Literature Search**: For selecting sequences, ligands, and active binding residues.
 2. **Phylogenetic Analysis**: Conducted with ClustalW and visualized in iTOL.
 3. **Structure Modeling**: Using homology modeling templates (e.g., PDB: 7EKT, 5KXI).
-4. **Docking Studies**:
+4. **Structure Validation**: Using ProSA-web Z-scores and QMEAN/QMEANDisCo metrics to assess global and local residue-level model quality.
+5. **Docking Studies**:
    - Protein-protein (nAChRs–3FTX) via HADDOCK.
    - Protein-ligand (agonists/antagonists) via AutoDock4.
-5. **Simulation & Analysis**:
+6. **Simulation & Analysis**:
    - RMSD, binding affinity, interaction residues.
    - 2D and 3D interaction diagrams via LigPlot+ and Discovery Studio.
-6. **KEGG Pathways**: Functional relevance of receptor interactions.
+7. **KEGG Pathways**: Functional relevance of receptor interactions.
 
 ## 📊 Key Findings
 
